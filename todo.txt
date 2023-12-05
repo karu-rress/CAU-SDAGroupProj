@@ -1,0 +1,4 @@
+running lasso regression.
+
+
+차원축소 - dimensional collapsing?
